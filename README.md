@@ -1,4 +1,4 @@
 sdvideo
 =======
 
-Simple bookmarklet which uses the embedding version of Youtube, Vimeo, Dailymotion, Livestream and soon other services to maximize it on the web browser window
+Simple bookmarklet which uses the embedding version of YouTube, Vimeo, Dailymotion, Livestream and probably other services to convert them in a pop up window so you can do other things meanwhile
